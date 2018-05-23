@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fce803916761c624c91d83ba26df9b94
+timeCreated: 1523295525
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - alienBuzz1: {fileID: 8300000, guid: f1a53025389fa9946a9cc1009b743821, type: 3}
+  - alienBuzz2: {fileID: 8300000, guid: d2ffb876a1394e74083a81661f8b432b, type: 3}
+  - alienDies: {fileID: 8300000, guid: c7401e3a2574a834a811ec4caa5ddee9, type: 3}
+  - bulletFire: {fileID: 8300000, guid: f79131e651dddb24e8097af742416a09, type: 3}
+  - shipExplosion: {fileID: 8300000, guid: e6faa07d00b295e41907a5451c8414e8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
